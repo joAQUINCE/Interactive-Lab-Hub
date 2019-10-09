@@ -1,9 +1,14 @@
-[Lab 1:] (https://github.com/joAQUINCE/Interactive-Lab-Hub/tree/master/Labs/Lab_1)
+# Interactive-Lab-Hub
 
-[Lab 2:] (https://github.com/joAQUINCE/Interactive-Lab-Hub/tree/master/Labs/Lab_2)
+_**EDUARDO CASTILLO (EC833)**_
 
-[Lab 3:] (https://github.com/joAQUINCE/Interactive-Lab-Hub/tree/master/Labs/Lab_3)
 
-[Lab 4:]
+1. [Lab 1](https://github.com/joAQUINCE/Interactive-Lab-Hub/tree/master/Labs/Lab_1)
 
-[Lab 5:] (https://github.com/joAQUINCE/IDD-Fa19-Lab5)
+2. [Lab 2](https://github.com/joAQUINCE/Interactive-Lab-Hub/tree/master/Labs/Lab_2)
+
+3. [Lab 3](https://github.com/joAQUINCE/Interactive-Lab-Hub/tree/master/Labs/Lab_3)
+
+4. [Lab 4]
+
+5. [Lab 5](https://github.com/joAQUINCE/IDD-Fa19-Lab5)
