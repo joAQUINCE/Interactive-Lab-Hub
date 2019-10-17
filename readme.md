@@ -12,3 +12,5 @@ _**EDUARDO CASTILLO (EC833)**_
 4. [Lab 4](https://github.com/joAQUINCE/IDD-Fa19-Lab4)
 
 5. [Lab 5](https://github.com/joAQUINCE/IDD-Fa19-Lab5)
+
+6. [Lab 6](https://github.com/joAQUINCE/IDD-Fa19-Lab6)
