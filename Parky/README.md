@@ -15,4 +15,6 @@
 
 [Or Visit Our Website](http://parky.tech)
 
+
+### Our Basic Finite State Diagram
 ![Our Basic Finite State Diagram](fsm.png)
