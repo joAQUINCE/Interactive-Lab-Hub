@@ -16,3 +16,5 @@ _**EDUARDO CASTILLO (EC833)**_
 6. [Lab 6](https://github.com/joAQUINCE/IDD-Fa19-Lab6)
 
 7. [Lab 7](https://github.com/joAQUINCE/IDD-Fa19-Lab7)
+
+8. [Parky] (https://github.com/jwalker34/Interactive-Lab-Hub/tree/master/Parky)
